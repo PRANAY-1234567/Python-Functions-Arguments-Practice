@@ -314,9 +314,6 @@ def Number():
 q=Number()
 print(q)
 '''
-
-
-
 '''
 y="Good luck"
 d={}
