@@ -31,7 +31,6 @@ keyword arguments
 Variable keyword arguments (**kwargs)
 """
 
-
 '''
 #keyword arguments----->Parameter=argument
 def spam(a,b,c):
