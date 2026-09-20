@@ -122,11 +122,6 @@ Think(1,2,3,4,5,6)
 
 """
 
-
-
-
-
-
 # def Check():
 #     name="Python"
 #     print(name)
