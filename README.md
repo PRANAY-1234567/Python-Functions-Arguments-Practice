@@ -40,6 +40,7 @@ and
 
 ```python
 print(*args)
+
 ```
 
 * `print(args)` → displays the arguments in packed/tuple form.
