@@ -127,9 +127,6 @@ Think(1,2,3,4,5,6)
 # Check()
 # print(name)
 
-
-
-
 '''
 def check():
     x=9000
