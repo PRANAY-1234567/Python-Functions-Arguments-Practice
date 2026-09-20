@@ -144,13 +144,6 @@ def check():
 print(check())
 '''
 
-
-
-
-
-
-
-
 '''
 def Operations(x,y):
     a=x+y
