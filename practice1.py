@@ -107,13 +107,6 @@ Think(1,2,c=3,d=4,e=90)
 Think(1,2,3,4,5,6)
 '''
 
-
-
-
-
-
-
-
 """
 1.Positional argumnet
 2.variable_Positional argumnet (*args)
